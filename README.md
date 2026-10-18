@@ -41,8 +41,22 @@ I’m a developer who loves turning ideas into real things — especially throug
 </td></tr></table>
 
 <div align="center">
+
+### 💜 What I like about software
+I enjoy the moment when an idea stops being just an idea and becomes something **real, useful and enjoyable for someone else**.  
+I care about writing software that feels thoughtful, learning from every project and improving a little each time.
+
 <img width="100%" src="./assets/mini-terminal.svg" alt="Cute animated terminal" />
+
+### ✨ How I like to work
+**Curiosity first. Ego last.** I like asking questions, experimenting, reading documentation, testing ideas and working with people who enjoy sharing knowledge.
+
 <img width="100%" src="./assets/hud-rpg.svg" alt="RPG style neon HUD" />
+
+### 🐾 A little personality between the code
+I’m serious about my work, but I don’t think a developer profile has to feel cold.  
+So yes — there will be **dogs, cats, tiny ghosts, purple neon and probably too many cute things** around here.
+
 <img width="100%" src="./assets/neon-pets.svg" alt="Neon coding cat and dog" />
 <img width="100%" src="./assets/circuit-magic-strip.svg" alt="Magic cards, ghost, plants and circuits" />
 </div>
@@ -50,11 +64,18 @@ I’m a developer who loves turning ideas into real things — especially throug
 <div align="center">
 
 ## TECHS
+
+I prefer to show the tools I actually enjoy using instead of filling the page with every technology I have ever touched.
+
 <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,python,django,unity,cs,kotlin,postgres,mongodb,mysql,docker,git,linux,fedora,vscode&perline=9&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/WEB-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/BACKEND-A855F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/GAME%20DEV-D946EF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LINUX-6366F1?style=for-the-badge" /> <img src="https://img.shields.io/badge/SECURE%20DEV-0891B2?style=for-the-badge" />
 
 <img width="100%" src="./assets/neon-snake.svg" alt="Animated purple neon snake" />
+
+### 🐍 Learning never really ends
+My favorite part of technology is that there is always **something new to understand, break, rebuild or improve**. I’m comfortable saying “I don’t know yet” — and then figuring it out.
+
 <img width="100%" src="./assets/neon-wave.svg" alt="Neon wave" />
 </div>
 
@@ -64,6 +85,9 @@ A small game I made with a team for a Game Jam — and it ended up winning. 🏆
 `code × creativity × experimentation × play`
 
 <div align="center">
+
+It was a small project, but I like it because it reminds me that **building something fun with other people can be just as valuable as building something huge**.
+
 <img width="100%" src="./assets/moon-lantern-skyline.svg" alt="Neon night scenery" />
 </div>
 
@@ -79,6 +103,8 @@ A small game I made with a team for a Game Jam — and it ended up winning. 🏆
 ```
 **Interesting idea? Let’s talk.**
 
+I’m especially interested in work where I can **build, learn and contribute meaningfully**, not just complete tickets.
+
 </td><td width="50%" valign="top">
 
 ## 💗 `CODE_FOR_GOOD.exe`
@@ -90,14 +116,23 @@ A small game I made with a team for a Game Jam — and it ended up winning. 🏆
 
 Happy to help voluntarily when I can. 💜
 
+I believe technology becomes more valuable when it can **make someone’s day, work or life a little easier**.
+
 </td></tr></table>
 
 <div align="center">
 <img width="100%" src="./assets/circuit-magic-strip.svg" alt="Cute magical divider" />
+
+### 🌱 Why I volunteer
+If I have the time and the knowledge can genuinely help, I’m happy to contribute.  
+For me, sharing what I know is also a way to keep learning — **with mutual respect on both sides**.
 </div>
 
 ## 📊 GitHub Signals
 <div align="center">
+
+A few numbers from GitHub — useful context, but never the whole story behind a developer.
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=FidelEliseoReyesRamirez&show_icons=true&hide_border=true&bg_color=090414&title_color=D946EF&icon_color=22D3EE&text_color=E9D5FF&ring_color=8B5CF6" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelEliseoReyesRamirez&layout=compact&hide_border=true&bg_color=090414&title_color=D946EF&text_color=E9D5FF" />
 <br/>
@@ -106,6 +141,10 @@ Happy to help voluntarily when I can. 💜
 </div>
 
 <div align="center">
+
+### 👾 Beyond programming
+A profile should say something about the person too. I like games, series, music, Linux, animals and all the little things that make a project or community feel human.
+
 <img width="100%" src="./assets/geek-cards.svg" alt="Collectible style geek cards" />
 </div>
 
@@ -132,6 +171,11 @@ favorites  → Python / JavaScript
 
 <div align="center">
 <img width="100%" src="./assets/moon-lantern-skyline.svg" alt="Moon, lanterns and skyline" />
+
+### 🌙 Still here?
+Then you already know more about me than a stack of badges ever could.  
+If you’re building something interesting, helping a community, or simply want to talk about technology, **my inbox is open**.
+
 <img width="100%" src="./assets/neon-pets.svg" alt="Cute neon coding companions" />
 <img width="100%" src="./assets/raven-arcane.svg" alt="Decorative purple ravens" />
 <img width="100%" src="./assets/cute-neon-strip.svg" alt="Cute pets and hearts" />
