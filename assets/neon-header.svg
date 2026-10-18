@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070312"/><stop offset=".45" stop-color="#15062b"/><stop offset="1" stop-color="#050914"/></linearGradient>
+ <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset=".45" stop-color="#d946ef"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#8b5cf6" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="280" rx="24" fill="url(#bg)"/><rect width="1200" height="280" rx="24" fill="url(#grid)"/>
+<circle cx="1030" cy="45" r="95" fill="#7c3aed" opacity=".08"/><circle cx="1080" cy="210" r="150" fill="#22d3ee" opacity=".035"/>
+<path d="M0 235 L120 170 190 218 300 130 390 214 500 160 620 230 730 175 850 225 970 150 1080 210 1200 165V280H0Z" fill="#8b5cf6" opacity=".10"/>
+<rect x="55" y="43" width="7" height="190" rx="4" fill="url(#neon)" filter="url(#glow)"/>
+<text x="92" y="105" font-family="Verdana,Arial,sans-serif" font-size="58" font-weight="700" fill="#f5f3ff">Fidel Reyes</text>
+<text x="95" y="148" font-family="monospace" font-size="25" fill="#d8b4fe">&lt;TheGrokster /&gt;</text>
+<text x="95" y="190" font-family="Verdana,Arial,sans-serif" font-size="18" fill="#a5b4fc">SOFTWARE DEVELOPER  •  OPEN SOURCE  •  VOLUNTEER</text>
+<text x="95" y="225" font-family="monospace" font-size="16" fill="#67e8f9">BUILD  •  LEARN  •  HELP  •  REPEAT</text>
+<g transform="translate(855 66)" font-family="monospace" font-size="16"><rect width="285" height="150" rx="14" fill="#07050f" stroke="#a855f7" stroke-width="2"/><circle cx="22" cy="20" r="5" fill="#fb7185"/><circle cx="40" cy="20" r="5" fill="#fbbf24"/><circle cx="58" cy="20" r="5" fill="#4ade80"/><text x="20" y="53" fill="#c4b5fd">$ whoami</text><text x="35" y="78" fill="#fff">Fidel Reyes</text><text x="20" y="106" fill="#c4b5fd">$ status</text><text x="35" y="131" fill="#4ade80">OPEN TO WORK ✓</text></g>
+</svg>
