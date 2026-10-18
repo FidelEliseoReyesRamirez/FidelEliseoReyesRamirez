@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" src="./assets/neon-header.svg" alt="Fidel Reyes — TheGrokster" />
-<img width="100%" src="./assets/raven-arcane.svg" alt="Arcane neon ravens" />
+<img width="100%" src="./assets/raven-arcane.svg" alt="Purple neon decoration" />
 
 <a href="mailto:fidelreyesramirez000@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-FREELANCE%20%26%20REMOTE-7C3AED?style=for-the-badge" /></a>
 <img src="https://img.shields.io/badge/BOLIVIA-🇧🇴-A855F7?style=for-the-badge" />
@@ -14,7 +14,7 @@
 
 <table><tr><td width="55%" valign="top">
 
-## 🔮 `whoami`
+## 💜 `whoami`
 ```yaml
 name: Fidel Reyes
 alias: TheGrokster
@@ -42,33 +42,20 @@ Developer graduated **with excellence**. I love web, backend, game development, 
 <div align="center">
 <img width="100%" src="./assets/neon-pets.svg" alt="Neon coding cat and dog" />
 
-## ✦ 🔮 TECH CONSTELLATION 🔮 ✦
+## ✦ 💜 TECH CONSTELLATION 💜 ✦
 <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,python,django,unity,cs,kotlin,postgres,mongodb,mysql,docker,git,linux,fedora,vscode&perline=9&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/WEB-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/BACKEND-A855F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/GAME%20DEV-D946EF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LINUX-6366F1?style=for-the-badge" />
 <img width="100%" src="./assets/neon-wave.svg" />
 </div>
 
-## 🏆 🎮 ✦ GAME JAM WINNER — FRAGMENTOS MÍOS ✦ 🎮 🏆
-<table><tr><td width="68%">
+## 🎮 Something I made
 
-### 🟣 **Fragmentos Míos — Oozma Kappa**
-A game I created that **won a Game Jam**. 🏆
-
+### 🟣 **[Fragmentos Míos — Oozma Kappa](https://fidelreyes.itch.io/fragmentos-mios-oozma-kappa)**
+A small game I made with a team for a Game Jam — and it ended up winning. 🏆  
 `code × creativity × experimentation × play`
 
-### **[▶ PLAY ON ITCH.IO](https://fidelreyes.itch.io/fragmentos-mios-oozma-kappa)**
-
-</td><td width="32%" align="center">
-
-## 🏆 WINNER
-### `GAME JAM`
-🐦‍⬛ 🔮 🐦‍⬛  
-✨ 💜 ✨
-
-</td></tr></table>
-
-<div align="center"><img width="100%" src="./assets/raven-arcane.svg" alt="Purple arcane ravens" /></div>
+<div align="center"><img width="100%" src="./assets/neon-divider.svg" /></div>
 
 <table><tr><td width="50%" valign="top">
 
@@ -129,7 +116,6 @@ favorites  → Python / JavaScript
 
 <div align="center">
 <img width="100%" src="./assets/neon-pets.svg" alt="Cute neon coding companions" />
-<img width="100%" src="./assets/raven-arcane.svg" alt="The Grokster arcane signal" />
 
 ## 💌 ✦ TRANSMISSION OPEN ✦
 **Job · Freelance · Collaboration · Nonprofit · Tech talk**
@@ -139,5 +125,5 @@ favorites  → Python / JavaScript
 <br/><br/>
 <img width="100%" src="./assets/neon-footer.svg" alt="Build Learn Help Repeat" />
 
-🐦‍⬛ 🔮 🐾 ✨ 💜 **Thanks for visiting my little corner of GitHub.** 💜 ✨ 🐾 🔮 🐦‍⬛
+🐾 ✨ 💜 **Thanks for visiting my little corner of GitHub.** 💜 ✨ 🐾
 </div>
