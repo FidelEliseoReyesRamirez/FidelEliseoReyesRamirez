@@ -1,13 +1,12 @@
 <div align="center">
-
 <img width="100%" src="./assets/neon-header.svg" alt="Fidel Reyes — TheGrokster" />
+<img width="100%" src="./assets/raven-arcane.svg" alt="Arcane neon ravens" />
 
 <a href="mailto:fidelreyesramirez000@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-FREELANCE%20%26%20REMOTE-7C3AED?style=for-the-badge" /></a>
 <img src="https://img.shields.io/badge/BOLIVIA-🇧🇴-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OPEN%20SOURCE-💜-C026D3?style=for-the-badge" />
-
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Software+Developer+%E2%80%A2+Problem+Solver+%E2%80%A2+Geek;Web+%E2%80%A2+Backend+%E2%80%A2+Game+Development+%E2%80%A2+Linux;Building+things+that+can+help+people+%F0%9F%92%9C;Always+learning.+Always+building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Software+Developer+%E2%80%A2+Problem+Solver+%E2%80%A2+Geek;Code+%E2%80%A2+Games+%E2%80%A2+Linux+%E2%80%A2+Curiosity;Building+things+that+can+help+people+%F0%9F%92%9C;Always+learning.+Always+building." alt="Typing animation" />
 
 ### `Don't let fear stop you from doing something that could help others.` 💜
 <img width="100%" src="./assets/cute-neon-strip.svg" />
@@ -15,7 +14,7 @@
 
 <table><tr><td width="55%" valign="top">
 
-## 💜 `whoami`
+## 🔮 `whoami`
 ```yaml
 name: Fidel Reyes
 alias: TheGrokster
@@ -43,7 +42,7 @@ Developer graduated **with excellence**. I love web, backend, game development, 
 <div align="center">
 <img width="100%" src="./assets/neon-pets.svg" alt="Neon coding cat and dog" />
 
-## 🔮 ✦ TECH CONSTELLATION ✦ 🔮
+## ✦ 🔮 TECH CONSTELLATION 🔮 ✦
 <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,python,django,unity,cs,kotlin,postgres,mongodb,mysql,docker,git,linux,fedora,vscode&perline=9&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/WEB-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/BACKEND-A855F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/GAME%20DEV-D946EF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LINUX-6366F1?style=for-the-badge" />
@@ -64,12 +63,12 @@ A game I created that **won a Game Jam**. 🏆
 
 ## 🏆 WINNER
 ### `GAME JAM`
-🐱 💜 🐶  
-✨ 🔮 ✨
+🐦‍⬛ 🔮 🐦‍⬛  
+✨ 💜 ✨
 
 </td></tr></table>
 
-<div align="center"><img width="100%" src="./assets/cute-neon-strip.svg" /></div>
+<div align="center"><img width="100%" src="./assets/raven-arcane.svg" alt="Purple arcane ravens" /></div>
 
 <table><tr><td width="50%" valign="top">
 
@@ -130,6 +129,7 @@ favorites  → Python / JavaScript
 
 <div align="center">
 <img width="100%" src="./assets/neon-pets.svg" alt="Cute neon coding companions" />
+<img width="100%" src="./assets/raven-arcane.svg" alt="The Grokster arcane signal" />
 
 ## 💌 ✦ TRANSMISSION OPEN ✦
 **Job · Freelance · Collaboration · Nonprofit · Tech talk**
@@ -139,6 +139,5 @@ favorites  → Python / JavaScript
 <br/><br/>
 <img width="100%" src="./assets/neon-footer.svg" alt="Build Learn Help Repeat" />
 
-🐾 ✨ 💜 **Thanks for visiting my little corner of GitHub.** 💜 ✨ 🐾
-
+🐦‍⬛ 🔮 🐾 ✨ 💜 **Thanks for visiting my little corner of GitHub.** 💜 ✨ 🐾 🔮 🐦‍⬛
 </div>
